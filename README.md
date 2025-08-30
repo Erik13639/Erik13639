@@ -1,12 +1,13 @@
 # Olá, sou o Erik Araújo! 👋
-Sou um jovem de 16 anos, natural de Maranguape. Minha jornada criativa começou com o desenho, que é a base do meu interesse por arte visual, e a música, que me serve como uma grande fonte de inspiração.
 
-## Interesses e paixões
-Desenho: É minha principal forma de expressão e a base do meu interesse por arte visual.
+Sou um jovem de 16 anos, natural de Maranguape, Ceará, com um grande interesse pelo mundo da criatividade. Desde pequeno, o desenho tem sido minha principal forma de me expressar e observar o mundo. Essa paixão pela arte visual evoluiu para um fascínio por design gráfico, área que estou explorando e me dedicando a aprender cada dia mais.
 
-Música: A trilha sonora da minha vida e uma grande fonte de inspiração para minhas criações.
+## Minhas paixões
+Desenho: É a base de tudo. Através dele, aprendo sobre cores, composições e narrativas visuais. É onde tudo começou e o que me inspira a buscar novas formas de criar.
 
-Design Gráfico: É a área que estou explorando e me aprofundando. Busco aprender mais sobre a criação de identidades visuais e a comunicação através de elementos visuais.
+Música: A trilha sonora da minha vida e um combustível para a minha criatividade. Gosto de ouvir diferentes gêneros, e a energia e a emoção que a música me passa se refletem diretamente nos meus projetos.
 
-## Vamos nos conectar
-Estou sempre aberto a novas experiências, colaborações e a aprender com a comunidade. Sinta-se à vontade para entrar em contato ou dar uma olhada nos meus projetos!
+Design Gráfico: É a área que estou me aprofundando. Busco entender como as formas, tipografias e cores podem comunicar ideias e contar histórias. Estou aprendendo sobre a criação de identidades visuais, layouts e a arte de transformar conceitos em algo visualmente impactante.
+
+## O que busco
+Estou sempre em busca de novas oportunidades para aprender e crescer. Gosto de colaborar em projetos, receber feedback e conhecer pessoas que compartilham da mesma paixão pela arte e pelo design. Acredito que a criatividade não tem limites e estou animado para ver até onde essa jornada pode me levar.
