@@ -7,7 +7,7 @@
 
 ## 🌟 Sobre mim  
 Sou uma pessoa criativa que gosta de transformar ideias em arte, seja através de música, desenho ou design.  
-> *"Criatividade é minha linguagem universal."*  
+**"Criatividade é minha linguagem universal."** 
 
 
 
