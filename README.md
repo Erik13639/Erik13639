@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Erik Araújo  
+# 👋 Olá, eu sou o Erik Araújo  
 
 🎶 Apaixonado por **música** e **design gráfico**  
 ✏️ Amo **desenhar** e explorar novas formas de criatividade  
